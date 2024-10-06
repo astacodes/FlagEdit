@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\bin\Release\FlagEdit.exe.config
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\bin\Release\FlagEdit.exe
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\bin\Release\FlagEdit.pdb
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.Properties.Resources.resources
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.exe
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.pdb
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\bin\Release\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\bin\Release\Newtonsoft.Json.xml
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.csproj.Up2Date
+C:\Users\andre\source\repos\FlagEdit\FlagEdit\obj\Release\FlagEdit.FlagEdit.resources
