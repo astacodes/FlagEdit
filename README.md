@@ -1,5 +1,5 @@
 # FlagEdit
-FFlag Editor for Roblox\
+FFlag Editor for Roblox
 
 ![image](https://github.com/user-attachments/assets/fba03c1c-e007-4e8d-81fa-d479d877aa36)
 
